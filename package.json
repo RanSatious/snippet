@@ -1,0 +1,28 @@
+{
+  "name": "code-learning-snippet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require babel-register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanSatious/snippet.git"
+  },
+  "keywords": [
+    "snippet"
+  ],
+  "author": "satious",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RanSatious/snippet/issues"
+  },
+  "homepage": "https://github.com/RanSatious/snippet#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
