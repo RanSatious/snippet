@@ -41,6 +41,16 @@ PreferredAuthentications publickey
 IdentityFile ~/.ssh/github_id_rsa
 ```
 
-## references
+### 参考
 
-- [公钥管理 - 码云](https://gitee.com/help/categories/38)
+-   [公钥管理 - 码云](https://gitee.com/help/categories/38)
+
+## 查找文件
+
+```
+locate [OPTION]... [PARTTERN]...
+```
+
+### 参考
+
+-   [https://www.cnblogs.com/xqzt/p/5426666.html](https://www.cnblogs.com/xqzt/p/5426666.html)
